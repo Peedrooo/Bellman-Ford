@@ -31,10 +31,6 @@ def draw_graph():
     for node in nodes:
         node.draw(screen)
 
-def critical_node(color, ids):
-    global nodes
-    for id in ids:
-        nodes[id-1].toggle_color(color)
 
 def find_clicked_node(pos):
     for node in nodes:

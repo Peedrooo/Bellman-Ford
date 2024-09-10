@@ -2,11 +2,6 @@ from copy import deepcopy
 
 class Graph:
     def __init__(self, lis1, lis2):
-        self.graph = []
-        self.revers_graph = []
-        self.lis_aux_cri = []
-        self.lis_rev = []
-        self.lis_criticos = []
         self.in_list_nodes = []
         self.in_list_edges = []
         self.res = []

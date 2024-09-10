@@ -29,7 +29,7 @@ O principal objetivo é fornecer uma ferramenta de aprendizado para visualizar o
 
 ## Apresentação
 
-[Link para a apresentação](https://youtu.be/CepfgUzDwRs)
+[Link para a apresentação](https://www.youtube.com/watch?v=ExcqEanExIM)
 
 ## Instalação
 
